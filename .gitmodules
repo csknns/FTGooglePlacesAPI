@@ -1,3 +1,0 @@
-[submodule "XcodeProject/FTGooglePlacesAPI/Thirdparty/AFNetworking"]
-	path = XcodeProject/FTGooglePlacesAPI/Thirdparty/AFNetworking
-	url = git@github.com:AFNetworking/AFNetworking.git
